@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Doronin</h1>
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=VanyushaDoronin)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=VanyushaDoronin)]
 
 ### Language and Tools
 
