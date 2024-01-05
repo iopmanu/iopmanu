@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Doronin</h1>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/VanyushaDoronin)
+![Leetcode Stats](https://leetcard.jacoblin.cool/VanyushaDoronin?theme=dark)
 
 ### Language and Tools
 
