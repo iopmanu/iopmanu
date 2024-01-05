@@ -13,6 +13,6 @@
 </a>
 
 <a href="https://leetcode.com/VanyushaDoronin/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
 </a>
 
