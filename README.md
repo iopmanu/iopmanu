@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Doronin</h1>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/VanyushaDoronin?theme=dark&font=Stick%20No%20Bills)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=VanyushaDoronin)](https://github.com/KnlnKS/leetcode-stats)
 
 ### Language and Tools
 
